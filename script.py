@@ -2,7 +2,7 @@ import discord
 import socket
 import asyncio
 
-TOKEN = "MTM0MTc4NjY2MjIxNjEzODgyNg.GL0aw5.edaSGihAT-8FGbTbg4oJ0Jq4hcdzVcgBZ1jbLc"
+TOKEN = ""
 CHANNEL_ID = 1228685869431521374  # Replace with your channel ID
 SERVER_IP = "151.177.19.118"
 SERVER_PORT = 25566
